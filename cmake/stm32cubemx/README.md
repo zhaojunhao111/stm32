@@ -1,0 +1,1 @@
+CubeMx 6.18.1,gcc21.0.9,cmake4.40
